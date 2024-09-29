@@ -64,10 +64,3 @@ Contributions to this project are welcome! If you have suggestions for improveme
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-Special thanks to my teacher at **Ijan Africa** for their guidance and support throughout this project.
-
----
-
-Feel free to copy and paste this content into your README file in your repository! Let me know if you need any further adjustments.
